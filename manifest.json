@@ -2,5 +2,8 @@
   "manifest_version": 3,
   "name": "Highlight Text",
   "description": "Allows users to highlight text on websites and save locally.",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "popup/popup.html"
+  }
 }
