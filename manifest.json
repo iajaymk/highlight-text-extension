@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
   "name": "Highlight Text",
-  "desciption": "Allows users to highlight text on websites and save locally.",
+  "description": "Allows users to highlight text on websites and save locally.",
   "version": "1.0.0"
 }
